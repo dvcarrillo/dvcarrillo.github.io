@@ -3,115 +3,115 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://dvcarrillo.github.io/contact/</loc>
+    <loc>https://dvcarrillo.github.io/contact/</loc>
     <lastmod>2018-10-09T13:46:03+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://dvcarrillo.github.io/es/contact/"
+                href="https://dvcarrillo.github.io/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://dvcarrillo.github.io/contact/"
+                href="https://dvcarrillo.github.io/contact/"
                 />
   </url>
   
   <url>
-    <loc>http://dvcarrillo.github.io/projects/</loc>
+    <loc>https://dvcarrillo.github.io/projects/</loc>
     <lastmod>2018-10-09T13:45:03+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://dvcarrillo.github.io/es/projects/"
+                href="https://dvcarrillo.github.io/es/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://dvcarrillo.github.io/projects/"
+                href="https://dvcarrillo.github.io/projects/"
                 />
   </url>
   
   <url>
-    <loc>http://dvcarrillo.github.io/posts/first-post/</loc>
+    <loc>https://dvcarrillo.github.io/posts/first-post/</loc>
     <lastmod>2018-10-09T13:28:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://dvcarrillo.github.io/about/</loc>
+    <loc>https://dvcarrillo.github.io/about/</loc>
     <lastmod>2018-10-09T13:27:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://dvcarrillo.github.io/es/about/"
+                href="https://dvcarrillo.github.io/es/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://dvcarrillo.github.io/about/"
+                href="https://dvcarrillo.github.io/about/"
                 />
   </url>
   
   <url>
-    <loc>http://dvcarrillo.github.io/categories/</loc>
+    <loc>https://dvcarrillo.github.io/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://dvcarrillo.github.io/es/categories/"
+                href="https://dvcarrillo.github.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://dvcarrillo.github.io/categories/"
+                href="https://dvcarrillo.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://dvcarrillo.github.io/</loc>
+    <loc>https://dvcarrillo.github.io/</loc>
     <lastmod>2018-10-09T13:46:03+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://dvcarrillo.github.io/es/"
+                href="https://dvcarrillo.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://dvcarrillo.github.io/"
+                href="https://dvcarrillo.github.io/"
                 />
   </url>
   
   <url>
-    <loc>http://dvcarrillo.github.io/posts/</loc>
+    <loc>https://dvcarrillo.github.io/posts/</loc>
     <lastmod>2018-10-09T13:28:33+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dvcarrillo.github.io/tags/</loc>
+    <loc>https://dvcarrillo.github.io/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://dvcarrillo.github.io/es/tags/"
+                href="https://dvcarrillo.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://dvcarrillo.github.io/tags/"
+                href="https://dvcarrillo.github.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://dvcarrillo.github.io/categories/test/</loc>
+    <loc>https://dvcarrillo.github.io/categories/test/</loc>
     <lastmod>2018-10-09T13:28:33+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dvcarrillo.github.io/tags/test-personal/</loc>
+    <loc>https://dvcarrillo.github.io/tags/test-personal/</loc>
     <lastmod>2018-10-09T13:28:33+02:00</lastmod>
     <priority>0</priority>
   </url>
