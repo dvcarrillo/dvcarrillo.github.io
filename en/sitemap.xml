@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.dvcarrillo.ninja/contact/</loc>
+    <lastmod>2018-10-09T13:46:03+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.dvcarrillo.ninja/es/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.dvcarrillo.ninja/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.dvcarrillo.ninja/projects/</loc>
+    <lastmod>2018-10-09T13:45:03+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.dvcarrillo.ninja/es/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.dvcarrillo.ninja/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.dvcarrillo.ninja/posts/first-post/</loc>
+    <lastmod>2018-10-09T13:28:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.dvcarrillo.ninja/about/</loc>
+    <lastmod>2018-10-09T13:27:06+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.dvcarrillo.ninja/es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.dvcarrillo.ninja/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.dvcarrillo.ninja/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.dvcarrillo.ninja/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.dvcarrillo.ninja/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.dvcarrillo.ninja/</loc>
+    <lastmod>2018-10-09T13:46:03+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.dvcarrillo.ninja/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.dvcarrillo.ninja/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.dvcarrillo.ninja/posts/</loc>
+    <lastmod>2018-10-09T13:28:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dvcarrillo.ninja/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.dvcarrillo.ninja/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.dvcarrillo.ninja/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.dvcarrillo.ninja/categories/test/</loc>
+    <lastmod>2018-10-09T13:28:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dvcarrillo.ninja/tags/test-personal/</loc>
+    <lastmod>2018-10-09T13:28:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
