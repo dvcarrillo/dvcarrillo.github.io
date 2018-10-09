@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Vargas Carrillo</title>
-    <link>http://www.dvcarrillo.ninja/es/</link>
+    <link>http://dvcarrillo.github.io/es/</link>
     <description>Recent content on David Vargas Carrillo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 09 Oct 2018 13:46:08 +0200</lastBuildDate>
     
-	<atom:link href="http://www.dvcarrillo.ninja/es/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dvcarrillo.github.io/es/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contacta conmigo</title>
-      <link>http://www.dvcarrillo.ninja/es/contact/</link>
+      <link>http://dvcarrillo.github.io/es/contact/</link>
       <pubDate>Tue, 09 Oct 2018 13:46:08 +0200</pubDate>
       
-      <guid>http://www.dvcarrillo.ninja/es/contact/</guid>
+      <guid>http://dvcarrillo.github.io/es/contact/</guid>
       <description>Envíame un email.</description>
     </item>
     
     <item>
       <title>Proyectos</title>
-      <link>http://www.dvcarrillo.ninja/es/projects/</link>
+      <link>http://dvcarrillo.github.io/es/projects/</link>
       <pubDate>Tue, 09 Oct 2018 13:45:08 +0200</pubDate>
       
-      <guid>http://www.dvcarrillo.ninja/es/projects/</guid>
+      <guid>http://dvcarrillo.github.io/es/projects/</guid>
       <description>Listado de proyectos.</description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>http://www.dvcarrillo.ninja/es/posts/</link>
+      <link>http://dvcarrillo.github.io/es/posts/</link>
       <pubDate>Tue, 09 Oct 2018 13:39:03 +0200</pubDate>
       
-      <guid>http://www.dvcarrillo.ninja/es/posts/</guid>
+      <guid>http://dvcarrillo.github.io/es/posts/</guid>
       <description>En este momento todos los posts están en inglés.
 Acceder al blog en inglés.</description>
     </item>
     
     <item>
       <title>Sobre mí</title>
-      <link>http://www.dvcarrillo.ninja/es/about/</link>
+      <link>http://dvcarrillo.github.io/es/about/</link>
       <pubDate>Tue, 09 Oct 2018 13:33:43 +0200</pubDate>
       
-      <guid>http://www.dvcarrillo.ninja/es/about/</guid>
+      <guid>http://dvcarrillo.github.io/es/about/</guid>
       <description>¡Hola, soy David!
 Actualmente me encuentro desarrollando este sitio web, por lo que todo está un poco desordenado. Por favor, vuelve más tarde.</description>
     </item>
