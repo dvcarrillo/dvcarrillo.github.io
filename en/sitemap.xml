@@ -3,115 +3,115 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dvcarrillo.github.io/contact/</loc>
+    <loc>https://dvcarrillo.ninja/contact/</loc>
     <lastmod>2018-10-09T13:46:03+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://dvcarrillo.github.io/es/contact/"
+                href="https://dvcarrillo.ninja/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dvcarrillo.github.io/contact/"
+                href="https://dvcarrillo.ninja/contact/"
                 />
   </url>
   
   <url>
-    <loc>https://dvcarrillo.github.io/projects/</loc>
+    <loc>https://dvcarrillo.ninja/projects/</loc>
     <lastmod>2018-10-09T13:45:03+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://dvcarrillo.github.io/es/projects/"
+                href="https://dvcarrillo.ninja/es/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dvcarrillo.github.io/projects/"
+                href="https://dvcarrillo.ninja/projects/"
                 />
   </url>
   
   <url>
-    <loc>https://dvcarrillo.github.io/posts/first-post/</loc>
+    <loc>https://dvcarrillo.ninja/posts/first-post/</loc>
     <lastmod>2018-10-09T13:28:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dvcarrillo.github.io/about/</loc>
+    <loc>https://dvcarrillo.ninja/about/</loc>
     <lastmod>2018-10-09T13:27:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://dvcarrillo.github.io/es/about/"
+                href="https://dvcarrillo.ninja/es/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dvcarrillo.github.io/about/"
+                href="https://dvcarrillo.ninja/about/"
                 />
   </url>
   
   <url>
-    <loc>https://dvcarrillo.github.io/categories/</loc>
+    <loc>https://dvcarrillo.ninja/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://dvcarrillo.github.io/es/categories/"
+                href="https://dvcarrillo.ninja/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dvcarrillo.github.io/categories/"
+                href="https://dvcarrillo.ninja/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://dvcarrillo.github.io/</loc>
+    <loc>https://dvcarrillo.ninja/</loc>
     <lastmod>2018-10-09T13:46:03+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://dvcarrillo.github.io/es/"
+                href="https://dvcarrillo.ninja/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dvcarrillo.github.io/"
+                href="https://dvcarrillo.ninja/"
                 />
   </url>
   
   <url>
-    <loc>https://dvcarrillo.github.io/posts/</loc>
+    <loc>https://dvcarrillo.ninja/posts/</loc>
     <lastmod>2018-10-09T13:28:33+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dvcarrillo.github.io/tags/</loc>
+    <loc>https://dvcarrillo.ninja/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://dvcarrillo.github.io/es/tags/"
+                href="https://dvcarrillo.ninja/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dvcarrillo.github.io/tags/"
+                href="https://dvcarrillo.ninja/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://dvcarrillo.github.io/categories/test/</loc>
+    <loc>https://dvcarrillo.ninja/categories/test/</loc>
     <lastmod>2018-10-09T13:28:33+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dvcarrillo.github.io/tags/test-personal/</loc>
+    <loc>https://dvcarrillo.ninja/tags/test-personal/</loc>
     <lastmod>2018-10-09T13:28:33+02:00</lastmod>
     <priority>0</priority>
   </url>

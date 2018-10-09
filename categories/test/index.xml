@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on David Vargas Carrillo</title>
-    <link>https://dvcarrillo.github.io/categories/test/</link>
+    <link>https://dvcarrillo.ninja/categories/test/</link>
     <description>Recent content in Test on David Vargas Carrillo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 09 Oct 2018 13:28:33 +0200</lastBuildDate>
     
-	<atom:link href="https://dvcarrillo.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dvcarrillo.ninja/categories/test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My first post</title>
-      <link>https://dvcarrillo.github.io/posts/first-post/</link>
+      <link>https://dvcarrillo.ninja/posts/first-post/</link>
       <pubDate>Tue, 09 Oct 2018 13:28:33 +0200</pubDate>
       
-      <guid>https://dvcarrillo.github.io/posts/first-post/</guid>
+      <guid>https://dvcarrillo.ninja/posts/first-post/</guid>
       <description>Testing posts</description>
     </item>
     

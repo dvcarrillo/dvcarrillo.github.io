@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Vargas Carrillo</title>
-    <link>https://dvcarrillo.github.io/</link>
+    <link>https://dvcarrillo.ninja/</link>
     <description>Recent content on David Vargas Carrillo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 09 Oct 2018 13:46:03 +0200</lastBuildDate>
     
-	<atom:link href="https://dvcarrillo.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dvcarrillo.ninja/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Let&#39;s talk</title>
-      <link>https://dvcarrillo.github.io/contact/</link>
+      <link>https://dvcarrillo.ninja/contact/</link>
       <pubDate>Tue, 09 Oct 2018 13:46:03 +0200</pubDate>
       
-      <guid>https://dvcarrillo.github.io/contact/</guid>
+      <guid>https://dvcarrillo.ninja/contact/</guid>
       <description>Send me an email.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://dvcarrillo.github.io/projects/</link>
+      <link>https://dvcarrillo.ninja/projects/</link>
       <pubDate>Tue, 09 Oct 2018 13:45:03 +0200</pubDate>
       
-      <guid>https://dvcarrillo.github.io/projects/</guid>
+      <guid>https://dvcarrillo.ninja/projects/</guid>
       <description>Project list.</description>
     </item>
     
     <item>
       <title>My first post</title>
-      <link>https://dvcarrillo.github.io/posts/first-post/</link>
+      <link>https://dvcarrillo.ninja/posts/first-post/</link>
       <pubDate>Tue, 09 Oct 2018 13:28:33 +0200</pubDate>
       
-      <guid>https://dvcarrillo.github.io/posts/first-post/</guid>
+      <guid>https://dvcarrillo.ninja/posts/first-post/</guid>
       <description>Testing posts</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://dvcarrillo.github.io/about/</link>
+      <link>https://dvcarrillo.ninja/about/</link>
       <pubDate>Tue, 09 Oct 2018 13:27:06 +0200</pubDate>
       
-      <guid>https://dvcarrillo.github.io/about/</guid>
+      <guid>https://dvcarrillo.ninja/about/</guid>
       <description>Hi, I&amp;rsquo;m David! I am a Software Engineer from Granada, Spain.
 I am currently building and configuring my website so everything is pretty messy. Please come back later!</description>
     </item>
