@@ -33,11 +33,6 @@
   </url>
   
   <url>
-    <loc>https://dvcarrillo.ninja/posts/first-post/</loc>
-    <lastmod>2018-10-09T13:28:33+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dvcarrillo.ninja/about/</loc>
     <lastmod>2018-10-09T13:27:06+02:00</lastmod>
     <xhtml:link
@@ -84,12 +79,6 @@
   </url>
   
   <url>
-    <loc>https://dvcarrillo.ninja/posts/</loc>
-    <lastmod>2018-10-09T13:28:33+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://dvcarrillo.ninja/tags/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -102,18 +91,6 @@
                 hreflang="en"
                 href="https://dvcarrillo.ninja/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://dvcarrillo.ninja/categories/test/</loc>
-    <lastmod>2018-10-09T13:28:33+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dvcarrillo.ninja/tags/test-personal/</loc>
-    <lastmod>2018-10-09T13:28:33+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
