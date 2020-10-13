@@ -57,28 +57,31 @@ a:hover {
 
 @media only screen and (max-width: 600px) {
     h1 {
-        width: 100%;
-        padding: 50px;
+        width: 70%;
+        padding: 30px;
         position: absolute;
         top: 0;
         left: 0;
+        font-size: 15vmin;
     }
 
     h3 {
-        width: 100%;
-        padding: 50px;
+        width: 80%;
+        padding: 30px;
         position: absolute;
         bottom: 0;
-        left: 0;
+        left: 0;  
+        font-size: 6vmin;  
     }
 
     .a-set {
         position: absolute;
         bottom: 70px;
         left: 0;
-        padding: 50px;
+        padding: 30px;
         text-align: left;
         margin: 0;
+        font-size: 6vmin;  
     }
 
     .a-set > li {
