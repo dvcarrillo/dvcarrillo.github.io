@@ -133,7 +133,7 @@ function moveShape() {
 
 function updateFill() {
     for (let i = 0; i < 3; i++) {
-        fillColor[i] = fillColor[i] + (Math.floor(Math.random() * 3) * ascColor[i]);
+        fillColor[i] = fillColor[i] + (Math.floor(Math.random() * 2) * ascColor[i]);
         if (fillColor[i] > 255) {
             fillColor[i] = 255;
             ascColor[i] = -1;
