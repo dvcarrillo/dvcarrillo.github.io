@@ -11,7 +11,7 @@ h1 {
     font-size: 2em;
     padding: 100px;
     font-weight: 800;
-    font-size: 5rem;
+    font-size: 11vmin;
     z-index: 100;
 }
 
@@ -22,7 +22,7 @@ h3 {
     width: 50%;
     padding: 100px;
     font-weight: 800;
-    font-size: 2rem;
+    font-size: 4.5vmin;
     letter-spacing: 3px;
     z-index: 100;
 }
@@ -35,7 +35,7 @@ h3 {
     padding: 100px;
     list-style-type: none;
     font-weight: 800;
-    font-size: 2rem;
+    font-size: 4.5vmin;
     z-index: 100;
 }
 
