@@ -73,6 +73,7 @@ function draw() {
         drawShape();
         moveShape();
     }
+}
 
 function drawShape() {
     //  calculate node  starting locations
