@@ -69,32 +69,32 @@ function draw() {
     //fade background
     fill(0, 100);
     rect(0, 0, width, height);
-    if ((nodeX.length !== 0) && (nodeY.length !== 0)) {
-        drawShape();
-        moveShape();
-    }
+    drawShape();
+    moveShape();
 }
 
 function drawShape() {
-    //  calculate node  starting locations
+    //  calculate node starting locations
     for (let i = 0; i < nodes; i++) {
         nodeStartX[i] = centerX + cos(radians(rotAngle)) * radius;
         nodeStartY[i] = centerY + sin(radians(rotAngle)) * radius;
         rotAngle += 360.0 / nodes;
     }
 
-    // draw polygon
-    curveTightness(organicConstant);
-    fill(color(fillColor[0], fillColor[1], fillColor[2]));
+    if (nodeX.length !== 0 && nodeY.length !== 0) {
+        // draw polygon
+        curveTightness(organicConstant);
+        fill(color(fillColor[0], fillColor[1], fillColor[2]));
 
-    beginShape();
-    for (let i = 0; i < nodes; i++) {
-        curveVertex(nodeX[i], nodeY[i]);
+        beginShape();
+        for (let i = 0; i < nodes; i++) {
+            curveVertex(nodeX[i], nodeY[i]);
+        }
+        for (let i = 0; i < nodes - 1; i++) {
+            curveVertex(nodeX[i], nodeY[i]);
+        }
+        endShape(CLOSE);
     }
-    for (let i = 0; i < nodes - 1; i++) {
-        curveVertex(nodeX[i], nodeY[i]);
-    }
-    endShape(CLOSE);
 }
 
 function mouseMoved() {
@@ -162,4 +162,4 @@ function updateBlur() {
 
 function windowResized() {
     resizeCanvas(windowWidth, windowHeight);
-  }
+}
