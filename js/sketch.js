@@ -69,9 +69,10 @@ function draw() {
     //fade background
     fill(0, 100);
     rect(0, 0, width, height);
-    drawShape();
-    moveShape();
-}
+    if ((nodeX.length !== 0) && (nodeY.length !== 0)) {
+        drawShape();
+        moveShape();
+    }
 
 function drawShape() {
     //  calculate node  starting locations
